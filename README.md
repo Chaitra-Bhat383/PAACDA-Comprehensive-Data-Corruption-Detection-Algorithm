@@ -26,7 +26,7 @@ This repo was developed as a part of research towards a journal discussing the i
   
   ![image](https://user-images.githubusercontent.com/73294651/223133773-946eca34-37a2-4736-8caf-f1d69c3e08fe.png)
   
-3)Large-
+3)Medium-Large-
   CORRUPTION: 60%
   DATASET SIZE: 75,000
   
@@ -53,7 +53,7 @@ This repo was developed as a part of research towards a journal discussing the i
  ![image](https://user-images.githubusercontent.com/73294651/223134735-379cfcaa-d4c3-41dc-91d8-7ed3cb0e742b.png)
 
 
-3)Large-
+3)Medium-Large-
  CORRUPTION: 60%
  DATASET SIZE: 75,000
  
