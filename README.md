@@ -5,4 +5,4 @@
 Indepth analysis of the 18 algorithms across the parameters accuracy,recall,precision score,sensitivity, and F1 score for dataset of small,medium and large datasets and varying levels of corruption is put forth in the following doc : 
 
 
-Done by Kushagra Singh
+Readme Done by Kushagra Singh
