@@ -1,12 +1,12 @@
-## PAACDA-Comprehensive-Data-Corruption-Detection-Algorithm
+# PAACDA-Comprehensive-Data-Corruption-Detection-Algorithm
 
 This repo was developed as a part of research towards a journal discussing the importance of identifying corrupted data in datasets for effective data analysis and processing with machine learning algorithms. The authors introduce a new algorithm called PAACDA( Proximity based Adamic Adar Corruption Detection Algorithm) for detecting corrupted data in linear and clustered datasets, which outperforms other benchmarks with high accuracy. The article also highlights the limitations of current techniques and suggests avenues for future research in this area.
 
 18 datasets of varying sizes and corruptions were used to demonstrate the impact on the 16 different models with our proposed Proximity based Adamic Adar Corruption Detection Algorithm (PAACDA).Some important results showcasing the supremacy of the PAACDA algorithm with respect to other state of the art algos are discussed below.
 
-# Clustered Data
+## Clustered Data
 
-# Synthetically generated dataset link :
+## Synthetically generated dataset link :
     https://www.dropbox.com/s/w9i9lqev4xqn5tj/FinalCorruptedDataset.csv?dl=0 
 
 
@@ -28,8 +28,8 @@ This repo was developed as a part of research towards a journal discussing the i
   
   ![image](https://user-images.githubusercontent.com/73294651/223134043-5de533a8-f909-401b-b8c0-2ab03f7204f6.png)
 
-# Linear Data
-# Synthetically generated dataset link :
+## Linear Data
+## Synthetically generated dataset link :
     https://www.dropbox.com/s/209o3gq0w134w1f/FinalCorruptedDataset2.csv?dl=0
     
 1)Small-
