@@ -61,6 +61,13 @@ This repo was developed as a part of research towards a journal discussing the i
  ![image](https://user-images.githubusercontent.com/73294651/223134908-4ca70340-6e42-4999-8b30-e3ea05b1eb9a.png)
  
 
+# Contributors
+
+* [Charvi Bannur](https://github.com/charvibannur)
+
+* [Chaitra Bhat](https://github.com/Chaitra-Bhat383)
+
+* [Kushagra Singh](https://github.com/KushagraSingh02)
 
 
 
